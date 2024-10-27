@@ -74,5 +74,3 @@ The project aims to recommend movies that are similar based on features extracte
 3. **Execute the Cells**
    Run each cell sequentially to load data, preprocess, build models, and generate recommendations.
 
-
-
